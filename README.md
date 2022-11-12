@@ -1,0 +1,1 @@
+Install venv with pip install virtualenv. Install all libraries with pip install -r requirements.txt.
